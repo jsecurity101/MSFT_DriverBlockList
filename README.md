@@ -7,4 +7,4 @@ Microsoft default driver block list != Microsoft recommended driver block list. 
 | ---------- | ---------- |
 | 10_0_22631_0| [10_0_22631_0.xml](/BlockListFiles/10_0_22631_0.xml) |
 | 10_0_26100_0 | [10_0_26100_0.xml](/BlockListFiles/10_0_26100_0.xml) |
-| 
+
